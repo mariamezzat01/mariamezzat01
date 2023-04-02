@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Mariam Ezzat! 👋
 
-<!--
-**mariamezzat01/mariamezzat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software/biomedical engineer with experience in multiple programming languages:
 
-Here are some ideas to get you started:
+- Java ![Java gif](https://media.giphy.com/media/l41m2iZEWrcDZwWIw/giphy.gif)
+- JavaScript ![JavaScript gif](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+- Python ![Python gif](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+- C++ ![C++ gif](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+- C ![C gif](https://media.giphy.com/media/l2SqfOJzdGD2qlV7W/giphy.gif)
+- HTML/CSS ![HTML CSS gif](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in web development with:
+
+- Flask ![Flask gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+- Streamlit ![Streamlit gif](https://media.giphy.com/media/3ohs7X3N0oRZJgaTtK/giphy.gif)
+
+I'm currently pursing a bachelor's degree in systems and biomedical engineering  from Cairo University and have completed online courses in various topics such as:
+
+- Data Structures and Algorithms ![Data Structures and Algorithms gif](https://media.giphy.com/media/3ov9jM6UzJ9u5E9Hm8/giphy.gif)
+- Web Development ![Web Development gif](https://media.giphy.com/media/3o7aD2R9u5mVdpaBhu/giphy.gif)
+- Machine Learning ![Machine Learning gif](https://media.giphy.com/media/l0G17bNJrL3qTnTJC/giphy.gif)
+
+I'm passionate about solving real-life problems with technology and I'm always looking for new challenges to improve my skills.
+
+![Coding gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+Check out my GitHub projects to see some of my work! 👀
+
+![GitHub Projects gif](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+
+Feel free to contact me via [email](mariammohamedezzat2010@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mariam-ezzat-a804b9215/), I'm always open to new opportunities and collaborations. 📧
+
+![Email gif](https://media.giphy.com/media/l2JhQ2GitBk8jzhZS/giphy.gif) ![LinkedIn gif](https://media.giphy.com/media/2X9yI5oVf5qvG/giphy.gif)
