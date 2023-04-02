@@ -11,7 +11,17 @@ I'm a software/biomedical engineer with experience in multiple programming langu
 - C 
 - HTML/CSS <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML CSS icon" width="20"/>
 
-I specialize in web development with Flask and Streamlit. I'm currently pursuing a Bachelor's degree in Systems and Biomedical Engineering from Cairo University and have completed online courses in various topics such as data structures and algorithms, web development, and machine learning.
+I specialize in web development with:
+
+- Flask 🌶️
+- Streamlit 🚀
+
+ I'm currently pursuing a Bachelor's degree in Systems and Biomedical Engineering from Cairo University and have completed online courses in various topics such as:
+
+- Data Structures and Algorithms 📊
+- Web Development 🌐
+- Machine Learning 🤖
+
 
 ## Contact Me
 
