@@ -7,7 +7,7 @@ I'm a software/biomedical engineer with experience in multiple programming langu
 - Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java icon" width="20"/>
 - JavaScript <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="JavaScript icon" width="20"/>
 - Python <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python icon" width="20"/>
-- C++ <img src="https://cdn-icons-png.flaticon.com/512/381/381704.png" alt="C++ icon" width="20"/>
+- C++ 
 - C 
 - HTML/CSS <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML CSS icon" width="20"/>
 
