@@ -17,4 +17,4 @@ I specialize in web development with Flask and Streamlit. I'm currently pursuing
 
 Feel free to contact me via [email](mariammohamedezzat2010@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your-username) if you have any questions or would like to discuss a potential project or collaboration.
 
-<img src="https://media.giphy.com/media/l2JhQ2GitBk8jzhZS/giphy.gif" alt="Email gif" width="100"/> <img src="https://media.giphy.com/media/2X9yI5oVf5qvG/giphy.gif" alt="LinkedIn gif" width="100"/>
+<img src="https://media.giphy.com/media/3ohs7N2LJZGzNwuJag/giphy.gif" alt="Email gif" width="100"/><img src="https://media.giphy.com/media/l49JHz7kJvlJgsMAw/giphy.gif" alt="LinkedIn gif" width="100"/>
