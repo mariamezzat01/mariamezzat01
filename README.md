@@ -25,5 +25,5 @@ I specialize in web development with:
 
 ## Contact Me
 
-Feel free to contact me via [email](mariammohamedezzat2010@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your-username) if you have any questions or would like to discuss a potential project or collaboration.
+Feel free to contact me via email: mariammohamedezzat2010@gmail.com or [LinkedIn](https://www.linkedin.com/in/mariam-ezzat-a804b9215/) if you have any questions or would like to discuss a potential project or collaboration.
 
